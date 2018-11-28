@@ -1,0 +1,63 @@
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.d-inlineblock{
+	display: inline-block;
+
+}
+
+.logo{
+	width: 100px;
+	float: left;
+
+}
+.nav{
+	float: right;
+
+}
+.clear{
+	clear: both;
+}
+.ban{
+	width: 1170px;
+
+}
+.banner{
+	background-color: #e6e6e6;
+	padding: 30px;
+}
+.mainbg{
+	background-color: #363e97;
+	padding: 89px;	
+}
+
+.mainbg::before{
+	content: "";
+	clear: both;
+	display: block;
+
+}
+
+
+.bg{
+	width: 1170px;
+	margin: 0 auto;
+}
+.bg2{
+	background-color: #f2f2f2;
+	width: 570px;
+	height: 320px;
+	
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
