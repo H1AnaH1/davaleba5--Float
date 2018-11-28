@@ -34,14 +34,6 @@
 	padding: 89px;	
 }
 
-.mainbg::before{
-	content: "";
-	clear: both;
-	display: block;
-
-}
-
-
 .bg{
 	width: 1170px;
 	margin: 0 auto;
