@@ -50,6 +50,21 @@
 .right{
 	float: right;
 }
+
 .clear{
-	clear: both;
+	clear:	left;
+}
+.light-blue{
+	background-color: #bdccd4;
+	padding-top: 30px;
+	padding-bottom: 90px;
+
+}
+.image-box img{
+	width: 100%;
+}
+.image-box{
+	margin-right: 50px;
+
+
 }
